@@ -1,6 +1,4 @@
 ## Hi there, I'm Qiyu Hou.
-
-## About me
 - Here is my homepage: [qyhou.com](https://qyhou.com)
 - I'm currently working on multiple tasks of Document AI, such as Document Layout Analysis, OCR, Table Structure Recognition, Document Understanding, etc.
 - I'm learning Mathematics and Economics in my free time.
